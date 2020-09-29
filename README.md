@@ -11,6 +11,7 @@ This project demonstrates how to use the USB-UART Bridge, HDMI Sink, and HDMI So
 As the usb-uart bridge is used, the Arty Z7-10 must be connected to a computer over MicroUSB, which must be running a serial terminal (such as Tera Term or PuTTY).
 
 | Option | Function |
+| ------ | -------- |
 | 1 | Change the resolution of the HDMI output to the monitor. |
 | 2 | Change the frame buffer to display on the HDMI monitor. |
 | 3/4 | Store a test pattern in the chosen video frame buffer - color bar or blended. |
