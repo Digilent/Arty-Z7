@@ -4,3 +4,6 @@
 [submodule "sw"]
 	path = sw
 	url = https://github.com/Digilent/Arty-Z7-SW
+[submodule "os"]
+	path = os
+	url = https://github.com/Digilent/Arty-Z7-OS.git
