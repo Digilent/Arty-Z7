@@ -48,7 +48,7 @@ This demo was moved into this repository during 2020.1 updates. Its history prio
 The following are required for use of this demo. For more information on how to get any hardware or software you may be missing, see the Demo Page, linked above.
 
 * Arty Z7-10
-* Vivado and Vitis Classic Installations
+* Vivado and Vitis Unified Installations
 * Serial Terminal
 * HDMI-capable Monitor
 * HDMI-capable Source
